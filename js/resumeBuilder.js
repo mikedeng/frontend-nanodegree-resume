@@ -96,14 +96,13 @@ education = {
 
 work = {
     jobs: [
-        
-    //     {
-    //     employer: "Percent",
-    //     title: "Percent co. LTD",
-    //     location: "1 Qingnian St, Jinlang Shangquan, Shenhe, Shenyang, Liaoning, China",
-    //     dates: "March, 2018 - Now",
-    //     description: "Worked as senior software engineer"
-    // },
+        {
+        employer: "Percent",
+        title: "Percent co. LTD",
+        location: "1 Qingnian St, Jinlang Shangquan, Shenhe, Shenyang, Liaoning, China",
+        dates: "March, 2018 - Now",
+        description: "Worked as senior software engineer"
+    },
     {
         employer: "Udesk",
         title: "Beijing wofeng shidai data technology co., LTD",
