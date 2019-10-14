@@ -129,7 +129,11 @@ a {
 
 /* TODO: Replace with image later */
 #header {
-  background-color: #484848;
+  background-color: #2f2f31;
+}
+
+.roleName {
+  color: white;
 }
 
 .flex-box {
@@ -218,4 +222,22 @@ span {
   .biopic {
     display: block;
   }
+}
+
+.img-list {
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+
+.img-item {
+  list-style: none;
+  display: inline-block;
+  width: calc((100% - 20px) / 3);  
+  overflow: hidden;
+}
+
+.img-item img {
+  width: 100%;
+  cursor: pointer;
 }
