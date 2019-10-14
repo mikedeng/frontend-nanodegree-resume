@@ -187,7 +187,7 @@ bio.display();
 work.display();
 projects.display();
 education.display();
-site_map.display();
+// site_map.display();
 
 $(".img-list").on('click', 'li', function() {
     var width = $(this).width();
